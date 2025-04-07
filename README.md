@@ -5,4 +5,4 @@ I've followed the Udemy course: *"Unreal Engine 5 C++ The Ultimate Game Develope
 
 **Note:** I've only included the code in this GitHub project due to the project's size.
 
-I've recorded a playthrough in the project files — feel free to skip through it!
+I've recorded a playthrough — feel free to skip through it: https://youtu.be/D-UANAINCwk
